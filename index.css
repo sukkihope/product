@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.card {
+    margin: 50px;
+    padding: 0;
+    width: 300px;
+    box-shadow: 0 0 10px teal;
+    border-radius: 5px;
+}
+.detail-name p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.detail-review {
+    margin-top: 10px;
+}
+.detail-rating span {
+    color: rgb(24, 192, 24);
+    font-weight: 700;
+}
+.detail-price {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 3px;
+}
+
